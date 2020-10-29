@@ -9,6 +9,8 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 public class Application {
     public static void main(String[] args) {
         System.out.println("实验冲突");
+        System.out.println("hahahaahha");
+        System.out.println("更改hotfix里的内容实验冲突");
         SpringApplication.run(Application.class,args);
     }
 }
